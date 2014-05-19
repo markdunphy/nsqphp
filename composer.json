@@ -1,5 +1,5 @@
 {
-    "name": "davegardnerisme/nsqphp",
+    "name": "markdunphy/nsqphp",
     "description": "PHP client for NSQ",
     "type": "library",
     "keywords": [
